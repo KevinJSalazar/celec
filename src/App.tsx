@@ -27,7 +27,7 @@ function App() {
 
       {/* Student */}
       <Grid size={{ xs: 12 }}>
-        <Student apellidos="Salazar" nombres="Kevin" paralelo="1" />
+        <Student apellidos="Salazar Rodríguez" nombres="Kevin Joel" paralelo="1" />
       </Grid>
 
       {/* HydrologyTable */}
